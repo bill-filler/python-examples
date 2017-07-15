@@ -1,3 +1,4 @@
+#initial file with if statements
 num_knights =  int(input('Enter number of knights:\n'))
 fallback_string = 'xxx Oh Crapyoustink'
 #print(num_knights)
