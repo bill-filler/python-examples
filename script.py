@@ -1,9 +1,10 @@
 #initial file with if statements
-num_knights =  int(input('Enter number of knights:\n'))
-fallback_string = 'xxx Oh Crapyoustink'
-#print(num_knights)
 
 def test_ifs():
+    num_knights =  int(input('Enter number of knights:\n'))
+    fallback_string = 'xxx Oh Crapyoustink'
+    #print(num_knights)
+
     if num_knights <= 3:
         print('less than or equal to 3')
     elif num_knights > 3 and num_knights <= 6:
