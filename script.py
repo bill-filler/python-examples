@@ -1,4 +1,5 @@
 #initial file with if statements
+#initial test of if statements
 
 def test_ifs():
     num_knights =  int(input('Enter number of knights:\n'))
